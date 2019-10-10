@@ -11,6 +11,8 @@ public class DemoApplication {
 
         System.out.println("1231423123");
         System.out.println("测试第二次 dev");
+        System.out.println("测试第二次 dev2");
+
     }
 
 }
